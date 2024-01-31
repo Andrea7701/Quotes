@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quotes/static/css/main.853cabb8.css",
+    "main.js": "/Quotes/static/js/main.96a9aabc.js",
+    "index.html": "/Quotes/index.html",
+    "main.853cabb8.css.map": "/Quotes/static/css/main.853cabb8.css.map",
+    "main.96a9aabc.js.map": "/Quotes/static/js/main.96a9aabc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.853cabb8.css",
+    "static/js/main.96a9aabc.js"
+  ]
+}
